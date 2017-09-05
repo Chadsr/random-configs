@@ -86,7 +86,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-POWERLEVEL9K_MODE='flat'
+POWERLEVEL9K_MODE='awesome-fontconfig'
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(ip root_indicator context dir rbenv vcs nodeenv virtualenv anaconda pyenv)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status history time custom_wifi_signal battery)
